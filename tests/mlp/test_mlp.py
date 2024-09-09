@@ -1,6 +1,5 @@
 import config
-import numpy as np
-from rlearn.nets import MLP
+from nnblock.mlp import MLP
 import torch
 import torch.nn as nn
 
